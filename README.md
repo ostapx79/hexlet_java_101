@@ -1,6 +1,6 @@
 # Hexlet java_101 course 
 
-- Module 1 
+1. Module 1 
     - Lesson 1. Введение в Java.
         - Цель курса
             - научиться основам программирования на Java
